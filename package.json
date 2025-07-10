@@ -1,0 +1,16 @@
+{
+  "name": "pride-events",
+  "version": "1.0.0",
+  "description": "Parse Stockholm Pride event to lat long ",
+  "type": "module",
+  "main": "PrideParser.js",
+  "scripts": {
+    "start": "node PrideParser.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "dotenv": "^17.2.0"
+  }
+}

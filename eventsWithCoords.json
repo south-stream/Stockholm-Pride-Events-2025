@@ -1,0 +1,3210 @@
+[
+  {
+    "id": 4010,
+    "title": "Skaparcafé",
+    "address": "Sjövikskajen 36–42",
+    "lat": 59.3065702,
+    "lon": 18.0338796
+  },
+  {
+    "id": 4290,
+    "title": "Tipspromenad",
+    "address": "Bolindersplan 1",
+    "lat": 59.32915380000001,
+    "lon": 18.0523313
+  },
+  {
+    "id": 4295,
+    "title": "Invigningen av Pride House ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4281,
+    "title": "Filmvisning: Queendom",
+    "address": "Bolindersplan 1",
+    "lat": 59.32915380000001,
+    "lon": 18.0523313
+  },
+  {
+    "id": 4085,
+    "title": "Konstnär Alexandra Jöraas Skoogh",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4083,
+    "title": "Konstnär Christian Haag",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4190,
+    "title": "Konstnär Hannes Enocksson",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4084,
+    "title": "Konstnär Jessica Jansson",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4301,
+    "title": "Konstnär Karin Barowiak",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4086,
+    "title": "Konstnär Nea Ringdahl",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4082,
+    "title": "Konstnär Otto Hargne",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4300,
+    "title": "Konstnär Pirjo Palonen",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 3998,
+    "title": "Konstnär: Lina Björkman",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 3995,
+    "title": "Konstnär: Nilla Wikberg",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4243,
+    "title": "Pride Fair - Marknad ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4006,
+    "title": "🌈 Pride Youth på House! 🌈",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4001,
+    "title": "Dropin på StaDemonia Tattoo Stockholm",
+    "address": "Slipgatan 9",
+    "lat": 59.3173973,
+    "lon": 18.0278023
+  },
+  {
+    "id": 4262,
+    "title": "For the Love of Kink",
+    "address": "Slipgatan 9",
+    "lat": 59.3173973,
+    "lon": 18.0278023
+  },
+  {
+    "id": 4189,
+    "title": "For the Love of Kink",
+    "address": "Slipgatan 9",
+    "lat": 59.3173973,
+    "lon": 18.0278023
+  },
+  {
+    "id": 4055,
+    "title": "En Queer historia - historien som inte skulle berättas",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4198,
+    "title": "How are sexual identity and mental health changing in Stockholm? What does the data say?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4093,
+    "title": "Nyckeln till flersamhet",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4156,
+    "title": "Hbtqi i grundskolan",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4230,
+    "title": "Hur kan vi bygga framtidens äldrevård för hbtqi+ personer?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4302,
+    "title": "Min 26-åriga volontär-resa med Pride - Sussie \"Pride-Sussie\" Hedlund",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4063,
+    "title": "PERKELE! från Finland ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4282,
+    "title": "Pridegympa",
+    "address": "Bolindersplan 1",
+    "lat": 59.32915380000001,
+    "lon": 18.0523313
+  },
+  {
+    "id": 4094,
+    "title": "Gruppdiskussion om poly, RA och flersamhet",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4193,
+    "title": "Koda i Python på Pride Youth (måndag)",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4222,
+    "title": "Wind-down Sunday ",
+    "address": " Sergels Torg, 111 57 Stockholm",
+    "lat": 59.3323564,
+    "lon": 18.0652907
+  },
+  {
+    "id": 4056,
+    "title": "Att undervisa i HBTQ-historia på gymnasiet",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4178,
+    "title": "Nätverket Stolta föräldrar till HBTQI+ barn",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4132,
+    "title": "Presentation av deltagande föreningar i Pride Kinky",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4181,
+    "title": "How does evacuation of LGBTIQ people from Russia work?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4255,
+    "title": "Hur ser HBTQI-asylsökandes situation ut i Sverige, tre år in i Tidöavtalets tid?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4232,
+    "title": "LGBTQI-sports, in Stockholm, in Sweden and the world",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4124,
+    "title": "Rep med intentioner",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4070,
+    "title": "Manusläsning av queer långfilm: Klipporna Vid Havet",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4146,
+    "title": " BDSM ABC",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4072,
+    "title": "Att arbeta med unga transpersoner och transkultur - lärdomar från projektet Blåhaj",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4005,
+    "title": "Campaign for Nordic LGBT Monuments - LGBT refugees in the Nordic Zone",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4096,
+    "title": "Polyfika",
+    "address": "Kungsgatan 55",
+    "lat": 59.3341333,
+    "lon": 18.0586468
+  },
+  {
+    "id": 4089,
+    "title": "Förspelet ",
+    "address": "Barnhusgatan 20, 111 23 Stockholm",
+    "lat": 59.3355174,
+    "lon": 18.0537169
+  },
+  {
+    "id": 4110,
+    "title": "I Blåmålarens fotspår - En skymningsvandring i Eugène Janssons Stockholm - Pridespecial",
+    "address": "Mariatorget",
+    "lat": 59.3181392,
+    "lon": 18.0622887
+  },
+  {
+    "id": 4010,
+    "title": "Skaparcafé",
+    "address": "Sjövikskajen 36–42",
+    "lat": 59.3065702,
+    "lon": 18.0338796
+  },
+  {
+    "id": 4290,
+    "title": "Tipspromenad",
+    "address": "Bolindersplan 1",
+    "lat": 59.32915380000001,
+    "lon": 18.0523313
+  },
+  {
+    "id": 4283,
+    "title": "Filmvisning: Bland bögar och lesbiska i New York",
+    "address": "Bolindersplan 1",
+    "lat": 59.32915380000001,
+    "lon": 18.0523313
+  },
+  {
+    "id": 4154,
+    "title": "Pride på Sjöhistoriska",
+    "address": ""
+  },
+  {
+    "id": 4032,
+    "title": "Att vara närstående - ur ett kuratorsperspektiv",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4207,
+    "title": "Från tanke till handling - Så bygger vi queera rum med folkbildning",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4119,
+    "title": "Njutning bortom neuronormen",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4106,
+    "title": "Transfobiska vindar - hur ser hotet ut och hur gör vi motstånd?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4026,
+    "title": "Voices from the margins (the lived realities of trans refugees & asylum seekers)",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4085,
+    "title": "Konstnär Alexandra Jöraas Skoogh",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4083,
+    "title": "Konstnär Christian Haag",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4190,
+    "title": "Konstnär Hannes Enocksson",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4084,
+    "title": "Konstnär Jessica Jansson",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4301,
+    "title": "Konstnär Karin Barowiak",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4086,
+    "title": "Konstnär Nea Ringdahl",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4082,
+    "title": "Konstnär Otto Hargne",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4300,
+    "title": "Konstnär Pirjo Palonen",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 3998,
+    "title": "Konstnär: Lina Björkman",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 3995,
+    "title": "Konstnär: Nilla Wikberg",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4243,
+    "title": "Pride Fair - Marknad ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4006,
+    "title": "🌈 Pride Youth på House! 🌈",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4001,
+    "title": "Dropin på StaDemonia Tattoo Stockholm",
+    "address": "Slipgatan 9",
+    "lat": 59.3173973,
+    "lon": 18.0278023
+  },
+  {
+    "id": 4262,
+    "title": "For the Love of Kink",
+    "address": "Slipgatan 9",
+    "lat": 59.3173973,
+    "lon": 18.0278023
+  },
+  {
+    "id": 4189,
+    "title": "For the Love of Kink",
+    "address": "Slipgatan 9",
+    "lat": 59.3173973,
+    "lon": 18.0278023
+  },
+  {
+    "id": 4240,
+    "title": "Utställning: I utsökt sällskap",
+    "address": "Hamngatan 4",
+    "lat": 59.33324139999999,
+    "lon": 18.0744841
+  },
+  {
+    "id": 4067,
+    "title": " Sexual orientation in the asylum process",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4264,
+    "title": "Från dassboken till deckare - Stockholms queera mötesplatser vid sekelskiftet 1900",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4105,
+    "title": "Hbtqi-politik i opposition med ett år till valet - vad gör vi nu?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4088,
+    "title": "Sex- och kärleksnormer ur asexuellt och aromantiskt perspektiv",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4284,
+    "title": "Lina Ploug från Stockholms stad. Tal om HBTQ-frågor",
+    "address": "Bolindersplan 1",
+    "lat": 59.32915380000001,
+    "lon": 18.0523313
+  },
+  {
+    "id": 4029,
+    "title": "Din rätt att slippa trakasserier och sexuella trakasserier på jobbet och hur vi kan arbeta förebyggande och gripa in ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4050,
+    "title": "Ny könstillhörighetslag - hur blev det? ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4285,
+    "title": "Lee Christiernsson",
+    "address": "Bolindersplan 1",
+    "lat": 59.32915380000001,
+    "lon": 18.0523313
+  },
+  {
+    "id": 4194,
+    "title": "Koda i Python på Pride Youth (tisdag)",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4154,
+    "title": "Pride på Sjöhistoriska",
+    "address": ""
+  },
+  {
+    "id": 4008,
+    "title": "Gustaf III och homofobin",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4134,
+    "title": "How to pick up a kinky guy?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4192,
+    "title": "Radikalt samexistera, Hannes Enocksson",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4091,
+    "title": "Responsible AI for an Inclusive Future – Accenture",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4271,
+    "title": "Samkönade begär och sexuella mötesplatser i Strindbergs samtid",
+    "address": "Drottninggatan 85",
+    "lat": 59.33848769999999,
+    "lon": 18.0564901
+  },
+  {
+    "id": 4154,
+    "title": "Pride på Sjöhistoriska",
+    "address": ""
+  },
+  {
+    "id": 4104,
+    "title": "Fängelser, elitidrott, toaletter - vad handlar hatet mot transpersoner egentligen om? ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4242,
+    "title": "Stadsvandring: Klotter och queera mötesplatser",
+    "address": "Hamngatan 4",
+    "lat": 59.33324139999999,
+    "lon": 18.0744841
+  },
+  {
+    "id": 4011,
+    "title": "Bordssamtal om queer mystik",
+    "address": "Sjövikskajen 36–42",
+    "lat": 59.3065702,
+    "lon": 18.0338796
+  },
+  {
+    "id": 4229,
+    "title": "Queera Stockholm – stadsvandra med Stadsmuseet",
+    "address": "Södra Blasieholmshamnen 2, mot Skeppsholmsbron",
+    "lat": 59.3273443,
+    "lon": 18.079116
+  },
+  {
+    "id": 4075,
+    "title": "Nelly & Nadine - en osannolik kärlekshistoria i Ravensbrücks koncentrationsläger",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4040,
+    "title": "Sex, lust och kommunikation för transpersoner        ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4304,
+    "title": "QueerBachata",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4202,
+    "title": "Regnbågsbaren med Stockholms Bränneri",
+    "address": "Herserudsvägen 22, Lidingö",
+    "lat": 59.3600557,
+    "lon": 18.1205675
+  },
+  {
+    "id": 4214,
+    "title": "Queer Manga Talk & Quiz ",
+    "address": " Sergels Torg, 111 57 Stockholm",
+    "lat": 59.3323564,
+    "lon": 18.0652907
+  },
+  {
+    "id": 4089,
+    "title": "Förspelet ",
+    "address": "Barnhusgatan 20, 111 23 Stockholm",
+    "lat": 59.3355174,
+    "lon": 18.0537169
+  },
+  {
+    "id": 4229,
+    "title": "Queera Stockholm – stadsvandra med Stadsmuseet",
+    "address": "Södra Blasieholmshamnen 2, mot Skeppsholmsbron",
+    "lat": 59.3273443,
+    "lon": 18.079116
+  },
+  {
+    "id": 4016,
+    "title": "Lovsång under Regnbågen",
+    "address": "Kungstensgatan 17",
+    "lat": 59.34249209999999,
+    "lon": 18.063306
+  },
+  {
+    "id": 4159,
+    "title": "A PLACE FOR US - En Pridekonsert",
+    "address": "Karlaplan 4",
+    "lat": 59.337071,
+    "lon": 18.088904
+  },
+  {
+    "id": 4208,
+    "title": "Allt du skulle vilja veta om trans… men varit för skraj att fråga om",
+    "address": "Bondegatan 1",
+    "lat": 59.3124426,
+    "lon": 18.0747467
+  },
+  {
+    "id": 4203,
+    "title": "Breakfast & Art in the Sculpture Park",
+    "address": "Herserudsvägen 22, Lidingö",
+    "lat": 59.3600557,
+    "lon": 18.1205675
+  },
+  {
+    "id": 4010,
+    "title": "Skaparcafé",
+    "address": "Sjövikskajen 36–42",
+    "lat": 59.3065702,
+    "lon": 18.0338796
+  },
+  {
+    "id": 4057,
+    "title": "Öppen förskola",
+    "address": "Högalids kyrkväg 15",
+    "lat": 59.3171974,
+    "lon": 18.0369225
+  },
+  {
+    "id": 4290,
+    "title": "Tipspromenad",
+    "address": "Bolindersplan 1",
+    "lat": 59.32915380000001,
+    "lon": 18.0523313
+  },
+  {
+    "id": 4154,
+    "title": "Pride på Sjöhistoriska",
+    "address": ""
+  },
+  {
+    "id": 4254,
+    "title": "Från insatt till utsatt",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4238,
+    "title": "Queer i Orten",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4115,
+    "title": "Quiz med RFSU Stockholm",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4161,
+    "title": "Sexprat med Sandra och Sofia",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4158,
+    "title": "Så skapar du en inkluderande arbetsplats",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4071,
+    "title": "Transhälsa – vad bidrar till välmående för transpersoner?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4007,
+    "title": "Kunglig Queerhistoria / Royal Queer History",
+    "address": "Slottsbacken 1",
+    "lat": 59.3256689,
+    "lon": 18.0714858
+  },
+  {
+    "id": 4286,
+    "title": "Musikquiz",
+    "address": "Bolindersplan 1",
+    "lat": 59.32915380000001,
+    "lon": 18.0523313
+  },
+  {
+    "id": 4085,
+    "title": "Konstnär Alexandra Jöraas Skoogh",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4083,
+    "title": "Konstnär Christian Haag",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4190,
+    "title": "Konstnär Hannes Enocksson",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4084,
+    "title": "Konstnär Jessica Jansson",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4301,
+    "title": "Konstnär Karin Barowiak",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4086,
+    "title": "Konstnär Nea Ringdahl",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4082,
+    "title": "Konstnär Otto Hargne",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4300,
+    "title": "Konstnär Pirjo Palonen",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 3998,
+    "title": "Konstnär: Lina Björkman",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 3995,
+    "title": "Konstnär: Nilla Wikberg",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4243,
+    "title": "Pride Fair - Marknad ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4006,
+    "title": "🌈 Pride Youth på House! 🌈",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4240,
+    "title": "Utställning: I utsökt sällskap",
+    "address": "Hamngatan 4",
+    "lat": 59.33324139999999,
+    "lon": 18.0744841
+  },
+  {
+    "id": 4090,
+    "title": "Att söka och få hjälp som våldsutsatt hbtqi-person",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4236,
+    "title": "Bygga för en queer community",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4249,
+    "title": "Frälst från ondo – ska Sverige förbjuda omvändelseförsök eller räcker rådande lagstiftning?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4233,
+    "title": "Hur skyddar du dig på nätet – egentligen?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4138,
+    "title": "Show and tell: D/s basics",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4030,
+    "title": "Trans från osynlig tillvaro till största hotet mot >valfritt< ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4018,
+    "title": "Regnbågsmässa med små och stora",
+    "address": "Kaplansbacken 1",
+    "lat": 59.328763,
+    "lon": 18.0486524
+  },
+  {
+    "id": 4266,
+    "title": "Lunchbus utan slut (LUS) Miss P ,Leo.B and Miss Starschine",
+    "address": "Hornstulls strand 17",
+    "lat": 59.315189,
+    "lon": 18.0430073
+  },
+  {
+    "id": 4262,
+    "title": "For the Love of Kink",
+    "address": "Slipgatan 9",
+    "lat": 59.3173973,
+    "lon": 18.0278023
+  },
+  {
+    "id": 4189,
+    "title": "For the Love of Kink",
+    "address": "Slipgatan 9",
+    "lat": 59.3173973,
+    "lon": 18.0278023
+  },
+  {
+    "id": 4000,
+    "title": "Pride Flash Dag på StaDemonia Tattoo Stockholm",
+    "address": "Slipgatan 9",
+    "lat": 59.3173973,
+    "lon": 18.0278023
+  },
+  {
+    "id": 4022,
+    "title": "Regnbågscafé",
+    "address": "Kaplansbacken 1",
+    "lat": 59.328763,
+    "lon": 18.0486524
+  },
+  {
+    "id": 4019,
+    "title": "Öppen förskola i Kungsholms kyrka ",
+    "address": "Kaplansbacken 1",
+    "lat": 59.328763,
+    "lon": 18.0486524
+  },
+  {
+    "id": 4244,
+    "title": "Hur arbetar kommunerna med unga hbtq+ personers fritid och inflytande? ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4160,
+    "title": "Leva i olika världar",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4048,
+    "title": "Vad händer med den könsbekräftande vården?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4116,
+    "title": "Vill du? - om sex, kommunikation och samtycke",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4287,
+    "title": "Regnbågs-kulturhistoria med Tupilak",
+    "address": "Bolindersplan 1",
+    "lat": 59.32915380000001,
+    "lon": 18.0523313
+  },
+  {
+    "id": 4076,
+    "title": "Ägande är makt – men vem äger i kärlekens namn?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4195,
+    "title": "Koda i Python på Pride House (onsdag)",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4007,
+    "title": "Kunglig Queerhistoria / Royal Queer History",
+    "address": "Slottsbacken 1",
+    "lat": 59.3256689,
+    "lon": 18.0714858
+  },
+  {
+    "id": 4154,
+    "title": "Pride på Sjöhistoriska",
+    "address": ""
+  },
+  {
+    "id": 4098,
+    "title": "SPECIALVISNINGAR: HBTQ+-personer under Förintelsen ",
+    "address": "Torsgatan 19, 113 21 Stockholm",
+    "lat": 59.33707889999999,
+    "lon": 18.0425254
+  },
+  {
+    "id": 4052,
+    "title": "On the front lines of democracy: LGBTQI resistance in Georgia",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4135,
+    "title": "SLM & LASH/Wish – Ett kärleksdrama i 2 akter",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4179,
+    "title": "Unga Hbtqia+",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4237,
+    "title": "Varför ska vi bry oss om Kyrkovalet?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4234,
+    "title": "CyberStorm & Kodkraft – bli en digital hjälte!",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4118,
+    "title": "Snurra flaskan med RFSU Stockholm",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4154,
+    "title": "Pride på Sjöhistoriska",
+    "address": ""
+  },
+  {
+    "id": 4113,
+    "title": "Kvinnokroppen är inte en handelsvara- nej till sexköp",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4033,
+    "title": "Sexperternas Rövskola",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4028,
+    "title": "Äkta makor - en queer historia",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4269,
+    "title": "Äkta Makor- en queer historia",
+    "address": "Norra bantorget",
+    "lat": 59.3349205,
+    "lon": 18.0545926
+  },
+  {
+    "id": 4020,
+    "title": " Var David och Jonatan ett par? ",
+    "address": "Kaplansbacken 1",
+    "lat": 59.328763,
+    "lon": 18.0486524
+  },
+  {
+    "id": 4242,
+    "title": "Stadsvandring: Klotter och queera mötesplatser",
+    "address": "Hamngatan 4",
+    "lat": 59.33324139999999,
+    "lon": 18.0744841
+  },
+  {
+    "id": 4011,
+    "title": "Bordssamtal om queer mystik",
+    "address": "Sjövikskajen 36–42",
+    "lat": 59.3065702,
+    "lon": 18.0338796
+  },
+  {
+    "id": 4229,
+    "title": "Queera Stockholm – stadsvandra med Stadsmuseet",
+    "address": "Södra Blasieholmshamnen 2, mot Skeppsholmsbron",
+    "lat": 59.3273443,
+    "lon": 18.079116
+  },
+  {
+    "id": 4247,
+    "title": "Rendez-Vous LOUD & PROUD",
+    "address": "Stadsgårdsterminalen, 116 45 Stockholm",
+    "lat": 59.31941599999999,
+    "lon": 18.0775996
+  },
+  {
+    "id": 4025,
+    "title": "Building Health Through Belonging: RFSL Stockholm's social spaces",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4303,
+    "title": "BögBachata",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4087,
+    "title": "Katolik och gay - går det ihop?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4180,
+    "title": "Rights for HBTQI+ people in EECA",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4216,
+    "title": "Queer Filmvisning",
+    "address": " Sergels Torg, 111 57 Stockholm",
+    "lat": 59.3323564,
+    "lon": 18.0652907
+  },
+  {
+    "id": 4202,
+    "title": "Regnbågsbaren med Stockholms Bränneri",
+    "address": "Herserudsvägen 22, Lidingö",
+    "lat": 59.3600557,
+    "lon": 18.1205675
+  },
+  {
+    "id": 4002,
+    "title": "🌈Pride Youth i Parken🌈",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4162,
+    "title": "Prova på- Rep",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4231,
+    "title": "Smiskskola",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3992,
+    "title": "Konstnär Magnus Johansson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3994,
+    "title": "Konstnär Ronja Hållsten",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3991,
+    "title": "Konstnär YlvaMaria Thompson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3997,
+    "title": "Konstnär Emelie Svartenmark",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4081,
+    "title": "Konstnär Hanna Wendeler",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4077,
+    "title": "Konstnär Jaymie Stellmar-Wright",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3990,
+    "title": "Konstnär Jonas Augustsson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3996,
+    "title": "Konstnär Katarina Thomassen",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4079,
+    "title": "Konstnär Linnéa Johnsson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4080,
+    "title": "Konstnär Lotta Tamba",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3988,
+    "title": "Konstnär Mikael da Silva Eriksson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4078,
+    "title": "Konstnär My Olsson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3989,
+    "title": "Konstnär Phil of Sweden / Filip Lundberg",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3987,
+    "title": "Konstnär Richard Klarby",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4296,
+    "title": "Strike a pose – fånga din Pride-look!",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4089,
+    "title": "Förspelet ",
+    "address": "Barnhusgatan 20, 111 23 Stockholm",
+    "lat": 59.3355174,
+    "lon": 18.0537169
+  },
+  {
+    "id": 4125,
+    "title": "Presentation av deltagande föreningar i Pride Kinky",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4097,
+    "title": "Kvinnoseparatistisk polypicknick",
+    "address": "Drakenbergsparken vid Hornstull",
+    "lat": 59.3141725,
+    "lon": 18.0387625
+  },
+  {
+    "id": 4184,
+    "title": "Våra Liv",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4128,
+    "title": "\"Läderhistoria & SLM, med en internationell utblick\"",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4060,
+    "title": "Klanger och eufori i regnbågens färger",
+    "address": "Kommunalvägen 21",
+    "lat": 59.2392033,
+    "lon": 17.9847378
+  },
+  {
+    "id": 4121,
+    "title": "Krobari ",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4012,
+    "title": "Att vara trans i kyrkan",
+    "address": "Sjövikskajen 36–42",
+    "lat": 59.3065702,
+    "lon": 18.0338796
+  },
+  {
+    "id": 4165,
+    "title": "Invigningen av Pride Park",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4126,
+    "title": "Dress-code  Fashion-show",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4150,
+    "title": "Needle play  föreläsning",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4021,
+    "title": " Konsert och allsångskväll med dragshowartisten Admira",
+    "address": "Kaplansbacken 1",
+    "lat": 59.328763,
+    "lon": 18.0486524
+  },
+  {
+    "id": 4074,
+    "title": "Filmvisning: Vingarne (1916) / Samtal med Gabrielle de Bourg och Emil Åkerö",
+    "address": "Greta Garbos väg 9, 169 40 Solna",
+    "lat": 59.3671325,
+    "lon": 17.9819711
+  },
+  {
+    "id": 4123,
+    "title": "Rep med intentioner",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4185,
+    "title": "Standup på Regnbågsscenen",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4147,
+    "title": " BDSM ABC",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4167,
+    "title": "Programpunkten släpps snart",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4276,
+    "title": "FIST Pride @ Patricia",
+    "address": "Kajplats 19 Södermälarstrand",
+    "lat": 59.32093339999999,
+    "lon": 18.0655277
+  },
+  {
+    "id": 4127,
+    "title": "“Puppy Agility” ",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4168,
+    "title": "Programpunkten släpps snart",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4187,
+    "title": "Silent Disco",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4017,
+    "title": "Nattvardsandakt och queer brunch",
+    "address": "Kungstensgatan 17",
+    "lat": 59.34249209999999,
+    "lon": 18.063306
+  },
+  {
+    "id": 4058,
+    "title": "Öppen förskola",
+    "address": "Högalids kyrkväg 15",
+    "lat": 59.3171974,
+    "lon": 18.0369225
+  },
+  {
+    "id": 4290,
+    "title": "Tipspromenad",
+    "address": "Bolindersplan 1",
+    "lat": 59.32915380000001,
+    "lon": 18.0523313
+  },
+  {
+    "id": 4154,
+    "title": "Pride på Sjöhistoriska",
+    "address": ""
+  },
+  {
+    "id": 4066,
+    "title": "Bi- och pansexualitet: utmaningar och möjligheter",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4210,
+    "title": "Folkhälsomyndigheten: Från handlingsplan till handling - Tillsammans för hbtqi-personers lika rättigheter och möjligheter",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4205,
+    "title": "HBTQI+ på jobbet ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4004,
+    "title": "LGBT History - Nordic and beyond",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4235,
+    "title": "Säkra slantar & säkra val – experternas tips för en trygg regnbågsekonomi",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4041,
+    "title": "Vad är en toxisk relation och hur hanterar vi det inom community?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4007,
+    "title": "Kunglig Queerhistoria / Royal Queer History",
+    "address": "Slottsbacken 1",
+    "lat": 59.3256689,
+    "lon": 18.0714858
+  },
+  {
+    "id": 4245,
+    "title": "Regnbågskåren i House",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4085,
+    "title": "Konstnär Alexandra Jöraas Skoogh",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4083,
+    "title": "Konstnär Christian Haag",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4190,
+    "title": "Konstnär Hannes Enocksson",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4084,
+    "title": "Konstnär Jessica Jansson",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4301,
+    "title": "Konstnär Karin Barowiak",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4086,
+    "title": "Konstnär Nea Ringdahl",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4082,
+    "title": "Konstnär Otto Hargne",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4300,
+    "title": "Konstnär Pirjo Palonen",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 3998,
+    "title": "Konstnär: Lina Björkman",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 3995,
+    "title": "Konstnär: Nilla Wikberg",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4243,
+    "title": "Pride Fair - Marknad ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4006,
+    "title": "🌈 Pride Youth på House! 🌈",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4001,
+    "title": "Dropin på StaDemonia Tattoo Stockholm",
+    "address": "Slipgatan 9",
+    "lat": 59.3173973,
+    "lon": 18.0278023
+  },
+  {
+    "id": 4262,
+    "title": "For the Love of Kink",
+    "address": "Slipgatan 9",
+    "lat": 59.3173973,
+    "lon": 18.0278023
+  },
+  {
+    "id": 4189,
+    "title": "For the Love of Kink",
+    "address": "Slipgatan 9",
+    "lat": 59.3173973,
+    "lon": 18.0278023
+  },
+  {
+    "id": 4240,
+    "title": "Utställning: I utsökt sällskap",
+    "address": "Hamngatan 4",
+    "lat": 59.33324139999999,
+    "lon": 18.0744841
+  },
+  {
+    "id": 4099,
+    "title": "Fallgropar att undvika inom familjejuridiken",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4100,
+    "title": "Hiv och mänskliga rättigheter – nu utreds informationsplikten ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4211,
+    "title": "Kulturrådet: Fri queer kultur, hbtqi-personers konstnärliga frihet i Sverige och globalt",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4092,
+    "title": "Public Speaking and Storytelling Workshop – Accenture",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4157,
+    "title": "Queera röster på biblioteken",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4073,
+    "title": "Transammans seniornätverk: Att bygga gemenskap, dela erfarenheter och bryta ensamhet",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4010,
+    "title": "Skaparcafé",
+    "address": "Sjövikskajen 36–42",
+    "lat": 59.3065702,
+    "lon": 18.0338796
+  },
+  {
+    "id": 4022,
+    "title": "Regnbågscafé",
+    "address": "Kaplansbacken 1",
+    "lat": 59.328763,
+    "lon": 18.0486524
+  },
+  {
+    "id": 4019,
+    "title": "Öppen förskola i Kungsholms kyrka ",
+    "address": "Kaplansbacken 1",
+    "lat": 59.328763,
+    "lon": 18.0486524
+  },
+  {
+    "id": 4225,
+    "title": " Från Vita huset till världen – hur Trumps beslut slår mot hbtq-rättigheter",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4035,
+    "title": "Det queera kulturutbudet: Hur ser det ut idag, vad saknas och vad gör man från politiken i Stockholm för att stödja kultur av och för HBTQI+-personer?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4044,
+    "title": "LGBTQ+ activism in Ukrainian frontline cities",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4212,
+    "title": "MUCF: Vikten av mötesplatser för unga hbtqi-personer",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4155,
+    "title": "Vikten av att prata om självmord - ett samtal mellan Suicide Zero och Transammans ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4196,
+    "title": "Koda i Python på Pride Youth (torsdag)",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4288,
+    "title": "Filmvisning: Carol",
+    "address": "Bolindersplan 1",
+    "lat": 59.32915380000001,
+    "lon": 18.0523313
+  },
+  {
+    "id": 4007,
+    "title": "Kunglig Queerhistoria / Royal Queer History",
+    "address": "Slottsbacken 1",
+    "lat": 59.3256689,
+    "lon": 18.0714858
+  },
+  {
+    "id": 4154,
+    "title": "Pride på Sjöhistoriska",
+    "address": ""
+  },
+  {
+    "id": 4098,
+    "title": "SPECIALVISNINGAR: HBTQ+-personer under Förintelsen ",
+    "address": "Torsgatan 19, 113 21 Stockholm",
+    "lat": 59.33707889999999,
+    "lon": 18.0425254
+  },
+  {
+    "id": 4226,
+    "title": " Hbtq-ungas ohälsa – vad måste vi göra?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4133,
+    "title": "\"Läderhistoria & SLM, med en internationell utblick\"",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4259,
+    "title": "After Budapest Pride – now what? Progress and challenges on LGBTQI rights in EU and Europe",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4049,
+    "title": "DEI och svenska företag; Hur lätt kan vi påverkas av Trump och vad händer med mångfalden när värdegrunden skiftar?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4213,
+    "title": "Socialstyrelsen: Den nya könstillhörighetslagen",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4069,
+    "title": "Voices UnderThreat: Solidarity with LGBT Movements in Crisis",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4223,
+    "title": "Hetero i konsten. Queerspaning på Thielska Galleriet",
+    "address": "Sjötullsbacken 8",
+    "lat": 59.3222526,
+    "lon": 18.1487242
+  },
+  {
+    "id": 4218,
+    "title": "Queer Bokcirkel ",
+    "address": " Sergels Torg, 111 57 Stockholm",
+    "lat": 59.3323564,
+    "lon": 18.0652907
+  },
+  {
+    "id": 4154,
+    "title": "Pride på Sjöhistoriska",
+    "address": ""
+  },
+  {
+    "id": 4227,
+    "title": "About the struggle in Hungary and Georgia with the Rainbow Fund and partners",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4215,
+    "title": "Arbetsmiljöverket & Myndigheten för arbetsmiljökunskap: Arbetsmiljön spelar roll – hbtqi-personers rättigheter i fokus",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4068,
+    "title": "Behövs ecoqueer organisering? ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4248,
+    "title": "Hot, hat och motstånd: HBTQIA+ personers rättigheter i en internationell kontext ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4061,
+    "title": "Queer historia och livet som äkta makor",
+    "address": "Kaplansbacken 1",
+    "lat": 59.328763,
+    "lon": 18.0486524
+  },
+  {
+    "id": 4242,
+    "title": "Stadsvandring: Klotter och queera mötesplatser",
+    "address": "Hamngatan 4",
+    "lat": 59.33324139999999,
+    "lon": 18.0744841
+  },
+  {
+    "id": 4257,
+    "title": "The banned EuroPride 2022 in Belgrade ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 3994,
+    "title": "Konstnär Ronja Hållsten",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4250,
+    "title": "Fri att älska – utan hinder, utan risk",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4188,
+    "title": "Gospelworkshop",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4046,
+    "title": "Hur polariserade är vi - egentligen?   ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4217,
+    "title": "Jämställdhetsmyndigheten: Utanför normen, utanför skyddsnäten",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4202,
+    "title": "Regnbågsbaren med Stockholms Bränneri",
+    "address": "Herserudsvägen 22, Lidingö",
+    "lat": 59.3600557,
+    "lon": 18.1205675
+  },
+  {
+    "id": 4002,
+    "title": "🌈Pride Youth i Parken🌈",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4162,
+    "title": "Prova på- Rep",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4231,
+    "title": "Smiskskola",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3992,
+    "title": "Konstnär Magnus Johansson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3991,
+    "title": "Konstnär YlvaMaria Thompson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3997,
+    "title": "Konstnär Emelie Svartenmark",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4081,
+    "title": "Konstnär Hanna Wendeler",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4077,
+    "title": "Konstnär Jaymie Stellmar-Wright",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3990,
+    "title": "Konstnär Jonas Augustsson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3996,
+    "title": "Konstnär Katarina Thomassen",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4079,
+    "title": "Konstnär Linnéa Johnsson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4080,
+    "title": "Konstnär Lotta Tamba",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3988,
+    "title": "Konstnär Mikael da Silva Eriksson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4078,
+    "title": "Konstnär My Olsson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3989,
+    "title": "Konstnär Phil of Sweden / Filip Lundberg",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3987,
+    "title": "Konstnär Richard Klarby",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4270,
+    "title": "Musikquiz i Korsordsform goes Pride",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4296,
+    "title": "Strike a pose – fånga din Pride-look!",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4112,
+    "title": "Konsten, politiken och friheten",
+    "address": "Estmansvägen 10-12",
+    "lat": 59.33963019999999,
+    "lon": 18.043933
+  },
+  {
+    "id": 4206,
+    "title": "Ägande är makt – men vem äger i kärlekens namn?",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4169,
+    "title": "Från Broadway till Stockholm Pride",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4108,
+    "title": "Livepodd- Kinkypodden",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4129,
+    "title": "Tool free impact play",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4095,
+    "title": "Polymingel",
+    "address": "Kungsgatan 70",
+    "lat": 59.3338159,
+    "lon": 18.05606
+  },
+  {
+    "id": 4186,
+    "title": "Kingkväll på Regnbågsscenen",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4260,
+    "title": "Förbjuden litteratur i Ryssland",
+    "address": "Hantverkargatan 32, Stockholm",
+    "lat": 59.32928399999999,
+    "lon": 18.0417797
+  },
+  {
+    "id": 4170,
+    "title": "Schlagerkvällen",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4186,
+    "title": "Kingkväll på Regnbågsscenen",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4036,
+    "title": "Underklädesfesten 2025",
+    "address": "Hornstulls strand 4, 117 39 Stockholm",
+    "lat": 59.3143864,
+    "lon": 18.0326629
+  },
+  {
+    "id": 4130,
+    "title": "How to pick up a kinky guy?",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4294,
+    "title": "Rödluvan, The kinkyversion",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4170,
+    "title": "Schlagerkvällen",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4145,
+    "title": "Nål & neonshow ",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4277,
+    "title": "Silent Disco - Live DJ",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4265,
+    "title": "Schlager,melfest med Dj leo.B ",
+    "address": "Arenavägen 75",
+    "lat": 59.2908721,
+    "lon": 18.0839815
+  },
+  {
+    "id": 4010,
+    "title": "Skaparcafé",
+    "address": "Sjövikskajen 36–42",
+    "lat": 59.3065702,
+    "lon": 18.0338796
+  },
+  {
+    "id": 4290,
+    "title": "Tipspromenad",
+    "address": "Bolindersplan 1",
+    "lat": 59.32915380000001,
+    "lon": 18.0523313
+  },
+  {
+    "id": 4059,
+    "title": "Öppen förskola",
+    "address": "Högalids kyrkväg 15",
+    "lat": 59.3171974,
+    "lon": 18.0369225
+  },
+  {
+    "id": 4289,
+    "title": "Bögbibblan med bokbord och boklotteri",
+    "address": "Bolindersplan 1",
+    "lat": 59.32915380000001,
+    "lon": 18.0523313
+  },
+  {
+    "id": 4154,
+    "title": "Pride på Sjöhistoriska",
+    "address": ""
+  },
+  {
+    "id": 4258,
+    "title": "Queer högläsning",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4043,
+    "title": "Changing society in times of war     ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4102,
+    "title": "Solidarity and resistance across borders - international outlook in times of backlash ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4037,
+    "title": "Success and Failure Stories from Our Newcomer Asylum Individuals",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4007,
+    "title": "Kunglig Queerhistoria / Royal Queer History",
+    "address": "Slottsbacken 1",
+    "lat": 59.3256689,
+    "lon": 18.0714858
+  },
+  {
+    "id": 4013,
+    "title": " Drop-in vigsel och välsignelse",
+    "address": "Sjövikskajen 36–42",
+    "lat": 59.3065702,
+    "lon": 18.0338796
+  },
+  {
+    "id": 4042,
+    "title": "Asylum Legal Advice",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4085,
+    "title": "Konstnär Alexandra Jöraas Skoogh",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4083,
+    "title": "Konstnär Christian Haag",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4190,
+    "title": "Konstnär Hannes Enocksson",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4084,
+    "title": "Konstnär Jessica Jansson",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4301,
+    "title": "Konstnär Karin Barowiak",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4086,
+    "title": "Konstnär Nea Ringdahl",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4082,
+    "title": "Konstnär Otto Hargne",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4300,
+    "title": "Konstnär Pirjo Palonen",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 3998,
+    "title": "Konstnär: Lina Björkman",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 3995,
+    "title": "Konstnär: Nilla Wikberg",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4243,
+    "title": "Pride Fair - Marknad ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4006,
+    "title": "🌈 Pride Youth på House! 🌈",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4001,
+    "title": "Dropin på StaDemonia Tattoo Stockholm",
+    "address": "Slipgatan 9",
+    "lat": 59.3173973,
+    "lon": 18.0278023
+  },
+  {
+    "id": 4262,
+    "title": "For the Love of Kink",
+    "address": "Slipgatan 9",
+    "lat": 59.3173973,
+    "lon": 18.0278023
+  },
+  {
+    "id": 4189,
+    "title": "For the Love of Kink",
+    "address": "Slipgatan 9",
+    "lat": 59.3173973,
+    "lon": 18.0278023
+  },
+  {
+    "id": 4240,
+    "title": "Utställning: I utsökt sällskap",
+    "address": "Hamngatan 4",
+    "lat": 59.33324139999999,
+    "lon": 18.0744841
+  },
+  {
+    "id": 4251,
+    "title": "Queer Rights are Children’s Rights!",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4107,
+    "title": "Queer i Sápmi",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4292,
+    "title": "Prisutdelning",
+    "address": "Bolindersplan 1",
+    "lat": 59.32915380000001,
+    "lon": 18.0523313
+  },
+  {
+    "id": 4054,
+    "title": "Regionpolitisk debatt med RFSL Stockholm",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4015,
+    "title": "Drop-in vigslar i Sigtuna rådhus",
+    "address": "Stora torget i Sigtuna",
+    "lat": 59.6191463,
+    "lon": 17.7234191
+  },
+  {
+    "id": 4022,
+    "title": "Regnbågscafé",
+    "address": "Kaplansbacken 1",
+    "lat": 59.328763,
+    "lon": 18.0486524
+  },
+  {
+    "id": 4253,
+    "title": "“Trans*women are wronged and disadvantaged by law and society in Sweden”",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4224,
+    "title": "A Safer Future",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4038,
+    "title": "Hbtqi-asylrättspraxis 2025 - temadag asyl och migration",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4291,
+    "title": "Pridegympa",
+    "address": "Bolindersplan 1",
+    "lat": 59.32915380000001,
+    "lon": 18.0523313
+  },
+  {
+    "id": 4252,
+    "title": "Så driver du igenom förändring! ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4197,
+    "title": "Koda i Python på Pride Youth (fredag)",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4023,
+    "title": "Drop-in vigsel",
+    "address": "Kaplansbacken 1",
+    "lat": 59.328763,
+    "lon": 18.0486524
+  },
+  {
+    "id": 4219,
+    "title": "Plakat-fix",
+    "address": " Sergels Torg, 111 57 Stockholm",
+    "lat": 59.3323564,
+    "lon": 18.0652907
+  },
+  {
+    "id": 4007,
+    "title": "Kunglig Queerhistoria / Royal Queer History",
+    "address": "Slottsbacken 1",
+    "lat": 59.3256689,
+    "lon": 18.0714858
+  },
+  {
+    "id": 4114,
+    "title": "Skadad av kyrkan – hur går jag vidare? ",
+    "address": "Kungstensgatan 17",
+    "lat": 59.34249209999999,
+    "lon": 18.063306
+  },
+  {
+    "id": 4154,
+    "title": "Pride på Sjöhistoriska",
+    "address": ""
+  },
+  {
+    "id": 4098,
+    "title": "SPECIALVISNINGAR: HBTQ+-personer under Förintelsen ",
+    "address": "Torsgatan 19, 113 21 Stockholm",
+    "lat": 59.33707889999999,
+    "lon": 18.0425254
+  },
+  {
+    "id": 4103,
+    "title": " Hur går det för demokratin? ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4039,
+    "title": " Migrationsmyndigheternas bedömningar av hbtqi-asylärenden - temadag asyl och migration",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4263,
+    "title": "När lust blir konsumtion – ett samtal om sexköp, pornografi och relationer",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4256,
+    "title": "Plakatpyssel inför Paraden och Organisationshäng! ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4154,
+    "title": "Pride på Sjöhistoriska",
+    "address": ""
+  },
+  {
+    "id": 4045,
+    "title": "Donatorer och halvsyskon – vilken information ska barn rätt till?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4003,
+    "title": "LGBT Culture - Nordic and beyond",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4031,
+    "title": "Unga hbtqi-personers rätt till asyl - Nycklar till rättssäkerheten",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4242,
+    "title": "Stadsvandring: Klotter och queera mötesplatser",
+    "address": "Hamngatan 4",
+    "lat": 59.33324139999999,
+    "lon": 18.0744841
+  },
+  {
+    "id": 4053,
+    "title": "Kommunpolitisk debatt med RFSL Stockholm",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4111,
+    "title": "Polypicnic",
+    "address": "Observatorielunden",
+    "lat": 59.3421811,
+    "lon": 18.0546792
+  },
+  {
+    "id": 4246,
+    "title": "Regnbågsscouternas picknick ",
+    "address": "Norra bantorget",
+    "lat": 59.3349205,
+    "lon": 18.0545926
+  },
+  {
+    "id": 4239,
+    "title": "Konstnär Astrid Wrangö",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3997,
+    "title": "Konstnär Emelie Svartenmark",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4081,
+    "title": "Konstnär Hanna Wendeler",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4077,
+    "title": "Konstnär Jaymie Stellmar-Wright",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3990,
+    "title": "Konstnär Jonas Augustsson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3996,
+    "title": "Konstnär Katarina Thomassen",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4079,
+    "title": "Konstnär Linnéa Johnsson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4080,
+    "title": "Konstnär Lotta Tamba",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3988,
+    "title": "Konstnär Mikael da Silva Eriksson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4078,
+    "title": "Konstnär My Olsson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3989,
+    "title": "Konstnär Phil of Sweden / Filip Lundberg",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3987,
+    "title": "Konstnär Richard Klarby",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4027,
+    "title": "Osynliggjorda Röster: HBTQ+ Ungdomars Utsatthet och Minoritetsstress på HVB och SIS",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4305,
+    "title": "QueerRueda",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4120,
+    "title": "Sex som funkar ",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4261,
+    "title": "Vad blir nästa stora HBTQI-reform?",
+    "address": "Clarion Hotel Sign, Östra Järnvägsgatan 35, 111 20 Stockholm",
+    "lat": 59.33475759999999,
+    "lon": 18.0531934
+  },
+  {
+    "id": 4122,
+    "title": "Krobari ",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4220,
+    "title": "The Legendary Kiki House of Angels presents: Pride Ballroom Session ",
+    "address": " Sergels Torg, 111 57 Stockholm",
+    "lat": 59.3323564,
+    "lon": 18.0652907
+  },
+  {
+    "id": 4204,
+    "title": "AW med DJ Gunn ",
+    "address": "Herserudsvägen 22, Lidingö",
+    "lat": 59.3600557,
+    "lon": 18.1205675
+  },
+  {
+    "id": 4202,
+    "title": "Regnbågsbaren med Stockholms Bränneri",
+    "address": "Herserudsvägen 22, Lidingö",
+    "lat": 59.3600557,
+    "lon": 18.1205675
+  },
+  {
+    "id": 4002,
+    "title": "🌈Pride Youth i Parken🌈",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4231,
+    "title": "Smiskskola",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4162,
+    "title": "Prova på- Rep",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3992,
+    "title": "Konstnär Magnus Johansson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3994,
+    "title": "Konstnär Ronja Hållsten",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3991,
+    "title": "Konstnär YlvaMaria Thompson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4296,
+    "title": "Strike a pose – fånga din Pride-look!",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4273,
+    "title": "Student Pride Pub med Panelsamtal",
+    "address": "Drottning Kristinas väg 15-19",
+    "lat": 59.347337,
+    "lon": 18.070904
+  },
+  {
+    "id": 4131,
+    "title": "SLM & LASH/Wish – Ett kärleksdrama i 2 akter",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4275,
+    "title": "Träff för transpersoner",
+    "address": ""
+  },
+  {
+    "id": 4200,
+    "title": "FUQT",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4137,
+    "title": "Show and tell: D/s basics",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4171,
+    "title": "Julia Lov",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4144,
+    "title": "Modevisning",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4280,
+    "title": "Pride Pole Extravaganza",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4101,
+    "title": "Admiras Prajd-Späck - Le Grand Final",
+    "address": "Karlaplan 4",
+    "lat": 59.337071,
+    "lon": 18.088904
+  },
+  {
+    "id": 4268,
+    "title": "Dj Leo.B @hotelSix SUS",
+    "address": "Brunkebergstorg 6",
+    "lat": 59.3309757,
+    "lon": 18.0669268
+  },
+  {
+    "id": 4151,
+    "title": "24/7 och D/s",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4109,
+    "title": "EXORCISTERNA",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4172,
+    "title": "Programpunkten släpps snart",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4279,
+    "title": "Le Grand Burlesque Bingo",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4173,
+    "title": "Programpunkten släpps snart",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4187,
+    "title": "Silent Disco",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4267,
+    "title": "Dj Leo.B @Trädgården/Popkyrkan",
+    "address": "Hammarby Slussväg 2",
+    "lat": 59.3042873,
+    "lon": 18.0786598
+  },
+  {
+    "id": 4293,
+    "title": "Prideparaden",
+    "address": "Bolindersplan 1",
+    "lat": 59.32915380000001,
+    "lon": 18.0523313
+  },
+  {
+    "id": 4154,
+    "title": "Pride på Sjöhistoriska",
+    "address": ""
+  },
+  {
+    "id": 4024,
+    "title": "Paradmässa ",
+    "address": "Kaplansbacken 1",
+    "lat": 59.328763,
+    "lon": 18.0486524
+  },
+  {
+    "id": 4240,
+    "title": "Utställning: I utsökt sällskap",
+    "address": "Hamngatan 4",
+    "lat": 59.33324139999999,
+    "lon": 18.0744841
+  },
+  {
+    "id": 4022,
+    "title": "Regnbågscafé",
+    "address": "Kaplansbacken 1",
+    "lat": 59.328763,
+    "lon": 18.0486524
+  },
+  {
+    "id": 116,
+    "title": "Pride Parade",
+    "address": "112 21 Stockholm",
+    "lat": 59.32820659999999,
+    "lon": 18.0430189
+  },
+  {
+    "id": 4221,
+    "title": " Sista minuten plakat-fix",
+    "address": " Sergels Torg, 111 57 Stockholm",
+    "lat": 59.3323564,
+    "lon": 18.0652907
+  },
+  {
+    "id": 4239,
+    "title": "Konstnär Astrid Wrangö",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3997,
+    "title": "Konstnär Emelie Svartenmark",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4081,
+    "title": "Konstnär Hanna Wendeler",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4077,
+    "title": "Konstnär Jaymie Stellmar-Wright",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3990,
+    "title": "Konstnär Jonas Augustsson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3996,
+    "title": "Konstnär Katarina Thomassen",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4079,
+    "title": "Konstnär Linnéa Johnsson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4080,
+    "title": "Konstnär Lotta Tamba",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3988,
+    "title": "Konstnär Mikael da Silva Eriksson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4078,
+    "title": "Konstnär My Olsson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3989,
+    "title": "Konstnär Phil of Sweden / Filip Lundberg",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3987,
+    "title": "Konstnär Richard Klarby",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4154,
+    "title": "Pride på Sjöhistoriska",
+    "address": ""
+  },
+  {
+    "id": 3992,
+    "title": "Konstnär Magnus Johansson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3994,
+    "title": "Konstnär Ronja Hållsten",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 3991,
+    "title": "Konstnär YlvaMaria Thompson",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4296,
+    "title": "Strike a pose – fånga din Pride-look!",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4154,
+    "title": "Pride på Sjöhistoriska",
+    "address": ""
+  },
+  {
+    "id": 4241,
+    "title": "Temavisning: Under ytan vid sekelskiftet 1900",
+    "address": "Hamngatan 4",
+    "lat": 59.33324139999999,
+    "lon": 18.0744841
+  },
+  {
+    "id": 4162,
+    "title": "Prova på- Rep",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4202,
+    "title": "Regnbågsbaren med Stockholms Bränneri",
+    "address": "Herserudsvägen 22, Lidingö",
+    "lat": 59.3600557,
+    "lon": 18.1205675
+  },
+  {
+    "id": 4002,
+    "title": "🌈Pride Youth i Parken🌈",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4231,
+    "title": "Smiskskola",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4174,
+    "title": "Tack för i år – En hyllning till alla våra volontärer",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4148,
+    "title": " Impact play med Tottis",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4272,
+    "title": "Kattatonika",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4176,
+    "title": "Little Sis Nora",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4183,
+    "title": "Storm Dunder",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4199,
+    "title": "Glamspäck",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4182,
+    "title": "Strula med Siri",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4153,
+    "title": "Electroplay",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4065,
+    "title": "CLEAN & BRONX SAUNA in corp. KinkClub, Nachspiel, Berlin Natt Present PRIDE Open Air celebration",
+    "address": ""
+  },
+  {
+    "id": 4177,
+    "title": "A*Teens",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4278,
+    "title": "Silent Disco - Live DJ",
+    "address": "Östermalms IP, Södra Fiskartorpsvägen 2",
+    "lat": 59.3475194,
+    "lon": 18.0835005
+  },
+  {
+    "id": 4154,
+    "title": "Pride på Sjöhistoriska",
+    "address": ""
+  },
+  {
+    "id": 4062,
+    "title": "Regnbågsmässa",
+    "address": "Gamla värmdövägen 14b",
+    "lat": 59.30754409999999,
+    "lon": 18.1405949
+  },
+  {
+    "id": 4240,
+    "title": "Utställning: I utsökt sällskap",
+    "address": "Hamngatan 4",
+    "lat": 59.33324139999999,
+    "lon": 18.0744841
+  },
+  {
+    "id": 4154,
+    "title": "Pride på Sjöhistoriska",
+    "address": ""
+  },
+  {
+    "id": 4154,
+    "title": "Pride på Sjöhistoriska",
+    "address": ""
+  },
+  {
+    "id": 4242,
+    "title": "Stadsvandring: Klotter och queera mötesplatser",
+    "address": "Hamngatan 4",
+    "lat": 59.33324139999999,
+    "lon": 18.0744841
+  },
+  {
+    "id": 4064,
+    "title": "Kärlekens mässa ",
+    "address": "Trångsund 1",
+    "lat": 59.325733,
+    "lon": 18.0703894
+  },
+  {
+    "id": 4014,
+    "title": "Pride i ord och toner: Duo Kleynkunst",
+    "address": "Sjövikskajen 36–42",
+    "lat": 59.3065702,
+    "lon": 18.0338796
+  }
+]
